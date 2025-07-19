@@ -24,3 +24,10 @@ let myObj = {
 
 console.log(typeof outsideTemp);
 
+
+// ********************memory*************
+
+//  stacks and heap
+
+// stack are used in primitive, heap are used in non primitive
+ 
